@@ -1,5 +1,5 @@
 # Apple-Stock-Sentiment-Analysis
-This project analyzes the relationship between Apple Inc. (AAPL) stock prices and public sentiment derived from financial news and social media. Using Natural Language Processing (NLP) techniques and stock market data, we visualize how aggregated sentiment correlates with AAPL stock trends.
+This project analyzes the relationship between Apple Inc. (AAPL) stock prices and public sentiment derived from financial news and social media. Using Natural Language Processing (NLP) techniques and stock market data, we visualize how aggregated sentiment correlates with AAPL stock trends. (for July,2025)
 
 🚀 Features
 
@@ -33,9 +33,13 @@ cd AAPL-Sentiment-Analysis
 
 Install required dependencies:
   -!pip install yfinance
+  
   -!pip install nltk
+  
   -!pip install vaderSentiment
+  
   -!pip install requests
+  
 
 Run the notebook:
 
@@ -43,11 +47,11 @@ jupyter notebook AAPL_Sentiment_Analysis.ipynb
 
 📊 Visualizations
 
-The notebook generates insightful plots, such as:
+1. The notebook generates insightful plots, such as:
 
-Stock Price vs Aggregated Sentiment Score (line graph)
+2. Stock Price vs Aggregated Sentiment Score (line graph)
 
-Daily Sentiment Trends
+3. Daily Sentiment Trends
 
 Stock Volatility vs Sentiment Shifts
 
