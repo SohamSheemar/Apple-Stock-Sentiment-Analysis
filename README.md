@@ -26,7 +26,7 @@ yfinance / APIs – Stock data
 
 Clone this repository:
 
-git clone https://github.com/your-username/AAPL-Sentiment-Analysis.git
+git clone [https://github.com/your-username/AAPL-Sentiment-Analysis.git](https://github.com/SohamSheemar/Apple-Stock-Sentiment-Analysis)
 cd AAPL-Sentiment-Analysis
 
 Install required dependencies:
