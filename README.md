@@ -19,14 +19,16 @@ NLTK (VADER) – Sentiment analysis
 yfinance / APIs – Stock data
 
 📂 Project Structure
+
 ├── AAPL_Sentiment_Analysis.ipynb   # Main Jupyter Notebook
+
 ├── README.md                       # Project Documentation
 
 ⚙️ Installation & Setup
 
 Clone this repository:
 
-git clone [https://github.com/your-username/AAPL-Sentiment-Analysis.git](https://github.com/SohamSheemar/Apple-Stock-Sentiment-Analysis)
+git clone https://github.com/SohamSheemar/Apple-Stock-Sentiment-Analysis
 cd AAPL-Sentiment-Analysis
 
 Install required dependencies:
